@@ -1,0 +1,41 @@
+{
+  "name": "dns",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --mode development",
+    "build": "vite build --mode production",
+    "preview": "vite preview --mode staging"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.6.1",
+    "@wagmi/core": "^1.4.3",
+    "@web3modal/ethereum": "^2.7.1",
+    "@web3modal/html": "^2.7.1",
+    "@web3modal/wagmi": "^3.1.0",
+    "aos": "^2.3.4",
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "echarts": "^5.4.3",
+    "pinia": "^2.1.6",
+    "viem": "^1.16.5",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@arco-design/web-vue": "^2.52.0",
+    "@iconify-json/basil": "^1.1.4",
+    "@iconify-json/material-symbols-light": "^1.1.2",
+    "@iconify-json/solar": "^1.1.7",
+    "@unocss/preset-icons": "^0.57.5",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "less": "^4.2.0",
+    "postcss": "^8.4.32",
+    "postcss-pxtorem": "^6.0.0",
+    "unocss": "^0.56.5",
+    "unplugin-auto-import": "^0.16.6",
+    "unplugin-vue-components": "^0.25.2",
+    "vite": "^4.4.5"
+  }
+}
