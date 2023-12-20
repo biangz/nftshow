@@ -17,7 +17,6 @@
                 <div class="flex items-center gap-x-[0.6rem] my-3">
                     <a href="https://t.me/HXXHCommunity" target="_blank" class="hover:opacity-80"><div class="icon i-basil-telegram-solid"></div></a>
                     <a href="https://twitter.com/hxxh_brc20" target="_blank" class="hover:opacity-80"><div class="icon i-basil-twitter-solid"></div></a>
-                    <a href="https://medium.com/@dormydotai" target="_blank" class="hover:opacity-80"><div class="icon i-basil-medium-solid"></div></a>
                 </div>
                 <p class="text-[#808080] text-[0.36rem]">Copyright © 2023 HXXH</p>
             </div>

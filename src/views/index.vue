@@ -5,7 +5,7 @@
             <div class="discription py-10 md:py-0">
                 <h1 data-aos="fade-up" data-aos-once="true">HXXH</h1>
                 <h1 data-aos="fade-up" data-aos-once="true">Pioneering Decentralized UTXO-Based NFT Social Protocol</h1>
-                <p data-aos="fade-up" data-aos-once="true">HXXH is at the vanguard of decentralized social platforms, integrating UTXO-based mechanisms with the dynamic world of NFTs to redefine online interactions. It's a space where users can truly own and control their data, engage in secure communications, and partake in a new economy of digital collectibles, all underpinned by the principles of blockchain technology.</p>
+                <p data-aos="fade-up" data-aos-once="true">HXXH is at the vanguard of decentralized social platforms, integrating UTXO-based mechanisms with the dynamic world of NFTs to redefine online interactions. It's a space where users can truly own and control their data, engage in secure communications, and partake in a new economy of digital collectibles, all underpinned by the principles of UTXO technology.</p>
                 <button data-aos="fade-up" data-aos-once="true" class="launch">Coming <icon-arrow-right /></button>
             </div>
             <img class="w-24 hidden md:block" src="../assets/HXXH.png" alt="">
@@ -14,27 +14,27 @@
 
     <div class="instroduction px-4 text-center flex flex-col items-center">
         <h1 data-aos="fade-up" data-aos-once="true">Why HXXH is your better social future.</h1>
-        <p data-aos="fade-up" data-aos-once="true">Powered by blockchain technology, DormyAI offers a secure, transparent, and simple investment experience</p>
+        <p data-aos="fade-up" data-aos-once="true">Unite, Innovate, Transact: HXXH - Bridging UTXO BTC Inscriptions with Multi-Chain NFTs in a Decentralized Social Ecosystem</p>
         <div class="mt-[1.8rem] grid md:w-[25rem] grid-cols-1 md:grid-cols-2 gap-y-[1.6rem] gap-x-[2.6rem]">
             <dl class="flex flex-col items-center" data-aos="fade-up" data-aos-once="true">
                 <dt class="img-wrapper"><img class="block" src="../assets/images/icon-01.png" alt=""></dt>
-                <dd class="font-bold">Secure Investment</dd>
-                <dd>Make investment by Web3 wallet to ensure security</dd>
+                <dd class="font-bold">The Economic Foundation</dd>
+                <dd>At the heart of HXXH lies the innovative use of UTXO BTC inscriptions, forming the economic backbone of the platform. This unique approach leverages the reliability of Bitcoin's UTXO model, ensuring a robust and secure financial infrastructure</dd>
             </dl>
             <dl class="flex flex-col items-center" data-aos="fade-up" data-aos-once="true">
                 <dt class="img-wrapper"><img src="../assets/images/icon-02.png" alt=""></dt>
-                <dd class="font-bold">Transparent Transactions</dd>
-                <dd>Make investment by Web3 wallet to ensure security</dd>
+                <dd class="font-bold">Community Fusion</dd>
+                <dd>HXXH's protocol seamlessly integrates NFT assets from various blockchains, creating a diverse and inclusive NFT community. This integration not only enhances user experience but also fosters a unified platform for digital asset enthusiasts</dd>
             </dl>
             <dl class="flex flex-col items-center" data-aos="fade-up" data-aos-once="true">
                 <dt class="img-wrapper"><img src="../assets/images/icon-03.png" alt=""></dt>
-                <dd class="font-bold">Efficient Buying Process</dd>
-                <dd>Make investment by Web3 wallet to ensure security</dd>
+                <dd class="font-bold">Defining Interactive Behaviors</dd>
+                <dd>The platform's social protocol introduces expandable social behaviors, linking the foundational UTXO inscriptions with the vibrant NFT community. This design enables rich, meaningful social interactions within the HXXH ecosystem</dd>
             </dl>
             <dl class="flex flex-col items-center" data-aos="fade-up" data-aos-once="true">
                 <dt class="img-wrapper"><img src="../assets/images/icon-04.png" alt=""></dt>
-                <dd class="font-bold">Easy to Use</dd>
-                <dd>Make investment by Web3 wallet to ensure security</dd>
+                <dd class="font-bold">Harmonizing Assets and Community</dd>
+                <dd>HXXH skillfully blends its inscription-based assets with NFT communities into its product offerings. This integration enriches the platform, making every social action a part of a larger, interconnected digital narrative</dd>
             </dl>
         </div>
     </div>
@@ -43,8 +43,8 @@
         <div class="inner md:w-[25rem] flex flex-col-reverse md:flex-row items-center gap-[3rem]">
             <img class="version-img" src="../assets/images/pic-version.png" data-aos="zoom-in" data-aos-once="true" alt="">
             <div class="text-center px-8 md:px-0 md:text-left">
-                <h1 class="title" data-aos="fade-up" data-aos-once="true">Our Vision</h1>
-                <p class="des" data-aos="fade-up" data-aos-once="true">To pioneer a blockchain network of tokenised real-word assets, enabling small-scale investors to achieve fractional property ownership worldwide.</p>
+                <h1 class="title" data-aos="fade-up" data-aos-once="true">Our Mission</h1>
+                <p class="des" data-aos="fade-up" data-aos-once="true">HXXH's mission is to redefine social networking through a secure, decentralized platform, uniting UTXO BTC inscriptions and multi-chain NFTs for empowering user-driven interactions and asset control.</p>
             </div>
         </div>
     </div>
@@ -52,44 +52,44 @@
         <div class="inner md:w-[25rem] flex flex-col-reverse md:flex-row items-center gap-[3rem]">
             <div class="text-center px-8 md:px-0 md:text-left">
                 <h1 class="title" data-aos="fade-up" data-aos-once="true">Our Vision</h1>
-                <p class="des" data-aos="fade-up" data-aos-once="true">To pioneer a blockchain network of tokenised real-word assets, enabling small-scale investors to achieve fractional property ownership worldwide.</p>
+                <p class="des" data-aos="fade-up" data-aos-once="true">HXXH envisions a future of social networking that is seamlessly integrated with blockchain technology, fostering a transparent, community-driven ecosystem for authentic digital engagement and asset management.</p>
             </div>
             <img class="version-img" src="../assets/images/pic-version-02.png" data-aos="zoom-in" data-aos-once="true" alt="">
         </div>
     </div>
 
     <div class="visiter-box flex flex-col items-center">
-        <h1 class="title" data-aos="fade-up" data-aos-once="true">What our investors say</h1>
-        <p class="des" data-aos="fade-up" data-aos-once="true">Learn from our community about their feelings and successful investment experiences</p>
+        <h1 class="title" data-aos="fade-up" data-aos-once="true">What our community says</h1>
+        <p class="des" data-aos="fade-up" data-aos-once="true">Learn from our users about their transformative experiences and groundbreaking opportunities with HXXH.</p>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-x-14 gap-y-4 mt-[1.8rem]">
             <div class="item" data-aos="fade-up" data-aos-once="true">
                 <div class="item-inner bg-white">
                     <div class="flex items-center">
                         <img class="w-[1.28rem] block" :src="AVATAR01" alt="">
-                        <span class="font-bold text-[0.52rem] ml-[0.3rem]">Catherine_Y</span>
+                        <span class="font-bold text-[0.52rem] ml-[0.3rem]">Block***eth</span>
                     </div>
                     <img class="w-[2.74rem] block my-[0.2rem]" :src="START" alt="">
-                    <p class="text-[0.4rem]">At first I thought real estate investment was far away from me because I didn't have a lot of money. But through DormyAI I found it is not a problem any more!</p>
+                    <p class="text-[0.4rem]">Embarking on the HXXH platform has completely changed my view on social networking. The seamless integration of UTXO and NFTs into my daily interactions is not just innovative, it's revolutionary!</p>
                 </div>
             </div>
             <div class="item" data-aos="fade-up" data-aos-once="true" data-aos-delay="50">
                 <div class="item-inner bg-white">
                     <div class="flex items-center">
                         <img class="w-[1.28rem] block" :src="AVATAR02" alt="">
-                        <span class="font-bold text-[0.52rem] ml-[0.3rem]">0xNotfomo.eth</span>
+                        <span class="font-bold text-[0.52rem] ml-[0.3rem]">Crypt***os.dao</span>
                     </div>
                     <img class="w-[2.74rem] block my-[0.2rem]" :src="START" alt="">
-                    <p class="text-[0.4rem]">I believe RWA will definitely be a great narrative in the next cycle. DormyAI is on the right path and hopes it can become the top fractional real estate platform in the future.</p>
+                    <p class="text-[0.4rem]">Never thought I'd see the day when a social protocol could effectively combine UTXO inscriptions with a thriving NFT marketplace. HXXH has done just that, and it's been a game-changer for my digital interactions.</p>
                 </div>
             </div>
             <div class="item" data-aos="fade-up" data-aos-once="true" data-aos-delay="100">
                 <div class="item-inner bg-white">
                     <div class="flex items-center">
                         <img class="w-[1.28rem] block" :src="AVATAR03" alt="">
-                        <span class="font-bold text-[0.52rem] ml-[0.3rem]">Popypinko</span>
+                        <span class="font-bold text-[0.52rem] ml-[0.3rem]">Nan***.nft</span>
                     </div>
                     <img class="w-[2.74rem] block my-[0.2rem]" :src="START" alt="">
-                    <p class="text-[0.4rem]">The design of SFT and Fractional Title Deed is amazing! I had imagined the combination of NFT and real estate, but DormyAI gave me a big surprise! Now I want to get more Title deeds :)</p>
+                    <p class="text-[0.4rem]">The ability to integrate my NFT collections within a social platform like HXXH has opened up a whole new world of networking and asset management. It's the future, and I'm here for it!:)</p>
                 </div>
             </div>
         </div>
@@ -127,29 +127,13 @@ const QUESTON = new URL('@/assets/images/qa-pic.png', import.meta.url).href
 
 const questions = ref([
   {
-    "question": "How DormyAI works?",
-    "answer": "DormyAI is a Real-World Asset (RWA) platform specializing in tokenizing UK properties. Each property listed on DormyAI is owned by a DAO LLC. This DAO LLC is then tokenized into Square Foot Tokens (SFTs) on the blockchain. When an SFT is purchased, it signifies that the buyer has acquired one square foot of the corresponding property."
+    "question": "How does HXXH work?",
+    "answer": "HXXH is a decentralized platform that utilizes UTXO BTC inscriptions to tokenize assets, allowing users to engage in secure, blockchain-based social interactions and NFT integrations."
   },
   {
-    "question": "What's SFT? Is it an ERC-20 Token?",
-    "answer": "The Square Foot Token (SFT) is a pioneered token type introduced by DormyAI, representing one square foot of a specific property. SFTs follow the ERC3525 standard, combining features of both ERC20 and ERC721 standards. SFTs of the same property can be combined into a whole unit like an ERC721 NFT or be split like ERC20 tokens."
+    "question": "When will HXXH Launch?",
+    "answer": "HXXH plans to initially release its whitepaper, followed by the launch of the first version of its protocol in the first quarter of next year, which will also mark the commencement of OG usage."
   },
-  {
-    "question": "What's fractional title deed?",
-    "answer": "On the DormyAI platform, SFT is presented as a fractional title deed of the corresponding property. It is a digital version of the title deed, representing fractional ownership of the property. It holds the same legal validity as the physical counterpart."
-  },
-  {
-    "question": "Why should I invest in UK real estate?",
-    "answer": "Investing in UK real estate can offer several advantages, including a stable and transparent legal system, a strong rental market, potential for capital appreciation, and a diversified property portfolio. The UK also has a robust economy and a reputation for property investment."
-  },
-  {
-    "question": "What are the unique benefits of investing in UK real estate compared with other countries?",
-    "answer": "The UK real estate market is known for its stability, well-established legal framework, and attractive rental yields. Additionally, London, in particular, is considered a global financial hub, attracting international investors. The UK offers a diverse range of property types, from residential to commercial, and it has a history of strong property price growth."
-  },
-  {
-    "question": "Why does DormyAI focus on the students' housing market?",
-    "answer": "DormyAI focuses on the student housing market due to its potential for steady rental income and long-term demand. Student housing can be a resilient investment sector because universities tend to have a consistent influx of students seeking accommodation."
-  }
 ])
 const topList = ref([1,2,3,4,5])
 const customStyle = ref({
