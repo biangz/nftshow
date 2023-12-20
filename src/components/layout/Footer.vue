@@ -3,7 +3,7 @@
         <div class="inner flex flex-col md:flex-row md:w-[30rem] mx-auto items-center">
             <div class="left">
                 <img :src="LOGO" class="w-4" alt="">
-                <h3 class="font-bold text-[0.51rem] py-2 text-center md:text-left">Subscribe to Our Newsletter</h3>
+                <h3 class="font-bold text-[0.51rem] py-2 text-center md:text-left">Contact Us: <a href="mailto:hxxhbtc@gmail.com">hxxhbtc@gmail.com</a></h3>
                 <!-- <div class="bg-white flex items-center rounded-full input-box">
                     <img class="w-[0.46rem]" :src="MESS" alt="">
                     <div class="w-[1px] h-2 bg-[#6E777E] mx-[0.32rem]"></div>
