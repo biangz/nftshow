@@ -1,6 +1,6 @@
 <template>
 
-    <div class="banner md:h-[16rem] bg-cover md:bg-contain">
+    <div class="banner bg-cover md:bg-contain">
         <div class="inner w-[20rem] md:w-[35rem] flex items-center gap-4">
             <div class="discription py-10 md:py-0">
                 <h1 data-aos="fade-up" data-aos-once="true">HXXH</h1>
@@ -163,6 +163,7 @@ onMounted(() => {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    height: var(--banner-height);
     .inner {
         // width: 1412px;
         .discription {

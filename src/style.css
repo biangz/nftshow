@@ -3,6 +3,7 @@
   --bg-theme-color: #0A0A0A;
   --text-color: rgba(255, 255, 255, 0.87);
   --theme-color: #FFA503;
+  --banner-height: 25rem;
 }
 
 html {
@@ -17,7 +18,8 @@ html, body, * {
 
 @media (min-width: 768px) {
   :root {
-    --header-height: 80px;
+    --header-height: 100px;
+    --banner-height: calc(100vh - var(--header-height));
   }
 }
 
