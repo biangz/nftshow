@@ -1,13 +1,14 @@
 <template>
 
     <div class="banner md:h-[16rem] bg-cover md:bg-contain">
-        <div class="inner w-[20rem] md:w-[35rem]">
+        <div class="inner w-[20rem] md:w-[35rem] flex items-center gap-4">
             <div class="discription py-10 md:py-0">
                 <h1 data-aos="fade-up" data-aos-once="true">HXXH</h1>
                 <h1 data-aos="fade-up" data-aos-once="true">Pioneering Decentralized UTXO-Based NFT Social Protocol</h1>
                 <p data-aos="fade-up" data-aos-once="true">HXXH is at the vanguard of decentralized social platforms, integrating UTXO-based mechanisms with the dynamic world of NFTs to redefine online interactions. It's a space where users can truly own and control their data, engage in secure communications, and partake in a new economy of digital collectibles, all underpinned by the principles of blockchain technology.</p>
                 <button data-aos="fade-up" data-aos-once="true" class="launch">Launch APP <icon-arrow-right /></button>
             </div>
+            <img class="w-24 hidden md:block" src="../assets/HXXH.png" alt="">
         </div>
     </div>
 
@@ -173,7 +174,7 @@ onMounted(() => {
 
 <style scoped lang="less">
 .banner {
-    background: url('../assets/images/banner-HXXH.png') no-repeat top right -200px / cover, linear-gradient(to bottom, var(--bg-theme-color), #0D0D0D);
+    background: url('../assets/images/banner-HXXH.jpg') no-repeat top right -200px / cover, linear-gradient(to bottom, var(--bg-theme-color), #0D0D0D);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -181,7 +182,6 @@ onMounted(() => {
     .inner {
         // width: 1412px;
         .discription {
-            width: 70%;
             h1 {
                 font-size: 76px;
                 line-height: 1.2;
@@ -203,6 +203,14 @@ onMounted(() => {
                 cursor: pointer;
             }
         }
+    }
+}
+
+.description-box {
+    > p {
+        font-size: 24px;
+        line-height: 1.4;
+        margin-top: 30px;
     }
 }
 
