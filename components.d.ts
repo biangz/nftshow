@@ -7,16 +7,11 @@ export {}
 
 declare module 'vue' {
   export interface GlobalComponents {
-    AButton: typeof import('@arco-design/web-vue')['Button']
     ACollapse: typeof import('@arco-design/web-vue')['Collapse']
     ACollapseItem: typeof import('@arco-design/web-vue')['CollapseItem']
-    AImage: typeof import('@arco-design/web-vue')['Image']
     AppLoading: typeof import('./src/components/layout/appLoading.vue')['default']
-    ATabPane: typeof import('@arco-design/web-vue')['TabPane']
-    ATabs: typeof import('@arco-design/web-vue')['Tabs']
     Footer: typeof import('./src/components/layout/Footer.vue')['default']
     Header: typeof import('./src/components/layout/Header.vue')['default']
-    Like: typeof import('./src/components/Like.vue')['default']
     Logo: typeof import('./src/components/Logo.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']

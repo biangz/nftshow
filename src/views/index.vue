@@ -3,16 +3,16 @@
     <div class="banner md:h-[16rem] bg-cover md:bg-contain">
         <div class="inner md:w-[28rem]">
             <div class="discription py-10 md:py-0">
-                <h1 data-aos="fade-up" data-aos-once="true">Your Fractional</h1>
-                <h1 data-aos="fade-up" data-aos-once="true">Real Estate Platform</h1>
-                <p data-aos="fade-up" data-aos-once="true">Get started with just £50 to invest in UK student housing and receive a stable rental income!</p>
+                <h1 data-aos="fade-up" data-aos-once="true">HXXH</h1>
+                <h1 data-aos="fade-up" data-aos-once="true">Pioneering Decentralized UTXO-Based NFT Social Protocol</h1>
+                <p data-aos="fade-up" data-aos-once="true">HXXH is at the vanguard of decentralized social platforms, integrating UTXO-based mechanisms with the dynamic world of NFTs to redefine online interactions. It's a space where users can truly own and control their data, engage in secure communications, and partake in a new economy of digital collectibles, all underpinned by the principles of blockchain technology.</p>
                 <button data-aos="fade-up" data-aos-once="true" class="launch">Launch APP <icon-arrow-right /></button>
             </div>
         </div>
     </div>
 
     <div class="instroduction px-4 text-center flex flex-col items-center">
-        <h1 data-aos="fade-up" data-aos-once="true">Why DormyAI is your better choice</h1>
+        <h1 data-aos="fade-up" data-aos-once="true">Why HXXH is your better social future.</h1>
         <p data-aos="fade-up" data-aos-once="true">Powered by blockchain technology, DormyAI offers a secure, transparent, and simple investment experience</p>
         <div class="mt-[1.8rem] grid md:w-[25rem] grid-cols-1 md:grid-cols-2 gap-y-[1.6rem] gap-x-[2.6rem]">
             <dl class="flex flex-col items-center" data-aos="fade-up" data-aos-once="true">
