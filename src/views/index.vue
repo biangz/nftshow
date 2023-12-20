@@ -6,7 +6,7 @@
                 <h1 data-aos="fade-up" data-aos-once="true">HXXH</h1>
                 <h1 data-aos="fade-up" data-aos-once="true">Pioneering Decentralized UTXO-Based NFT Social Protocol</h1>
                 <p data-aos="fade-up" data-aos-once="true">HXXH is at the vanguard of decentralized social platforms, integrating UTXO-based mechanisms with the dynamic world of NFTs to redefine online interactions. It's a space where users can truly own and control their data, engage in secure communications, and partake in a new economy of digital collectibles, all underpinned by the principles of blockchain technology.</p>
-                <button data-aos="fade-up" data-aos-once="true" class="launch">Launch APP <icon-arrow-right /></button>
+                <button data-aos="fade-up" data-aos-once="true" class="launch">Coming <icon-arrow-right /></button>
             </div>
         </div>
     </div>
