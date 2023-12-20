@@ -210,15 +210,17 @@ onMounted(() => {
         margin-top: 12px;
         font-size: 20px;
         color: white;
+        width: 80%;
     }
     .grid {
 
         > dl {
             background-color: white;
-            padding: 34px 134px;
+            padding: 34px;
             box-shadow: 0px 0px 40px 0px rgba(192,202,213,0.08);
             border-radius: 30px;
             box-sizing: border-box;
+            max-width: 500px;
             .img-wrapper {
                 height: 108px;
                 img {
@@ -227,14 +229,15 @@ onMounted(() => {
             }
             dd {
                 font-size: 22px;
-                max-width: 270px;
+                width: 100%;
+                
                 &:nth-of-type(1) {
                     margin: 32px 0 10px;
                 }
                 &:nth-of-type(2) {
                     color: #5E6F86;
                     font-size: 18px;
-                    line-height: 1.1;
+                    line-height: 1.3;
                 }
             }
         }
