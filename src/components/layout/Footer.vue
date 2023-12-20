@@ -15,11 +15,11 @@
             <div class="right mt-4 md:mt-0 md:ml-auto flex flex-col items-center">
                 <h3 class="font-bold text-[0.51rem]">Join our Community</h3>
                 <div class="flex items-center gap-x-[0.6rem] my-3">
-                    <a href="https://discord.gg/Rcmgth4a" target="_blank" class="hover:opacity-80"><img class="w-[1.12rem]" :src="DISCORD" alt=""></a>
-                    <a href="https://twitter.com/Dormydotai" target="_blank" class="hover:opacity-80"><img class="w-[1.12rem]" :src="TWITTER" alt=""></a>
+                    <a href="https://t.me/HXXHCommunity" target="_blank" class="hover:opacity-80"><img class="w-[1.12rem]" :src="DISCORD" alt=""></a>
+                    <a href="https://twitter.com/hxxh_brc20" target="_blank" class="hover:opacity-80"><img class="w-[1.12rem]" :src="TWITTER" alt=""></a>
                     <a href="https://medium.com/@dormydotai" target="_blank" class="hover:opacity-80"><img class="w-[1.12rem]" :src="MD" alt=""></a>
                 </div>
-                <p class="text-[#808080] text-[0.36rem]">Copyright © 2023 xxx</p>
+                <p class="text-[#808080] text-[0.36rem]">Copyright © 2023 HXXH</p>
             </div>
         </div>
     </footer>

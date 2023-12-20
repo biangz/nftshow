@@ -1,10 +1,10 @@
 <template>
-    <!-- <img :src="logo" alt=""> -->
-    <span class="logo">LOGO</span>
+    <img :src="logo" alt="">
+    <!-- <span class="logo">LOGO</span> -->
 </template>
 
 <script setup>
-const logo = new URL('@/assets/logo.png', import.meta.url).href
+const logo = new URL('@/assets/HXXH.png', import.meta.url).href
 </script>
 
 <style scoped lang="less">

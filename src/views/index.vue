@@ -173,7 +173,7 @@ onMounted(() => {
 
 <style scoped lang="less">
 .banner {
-    background: url('../assets/images/banner-bg.png') no-repeat top right / 900px, linear-gradient(to bottom, var(--bg-theme-color), #0D0D0D);
+    background: url('../assets/images/banner-HXXH.png') no-repeat top right / 900px, linear-gradient(to bottom, var(--bg-theme-color), #0D0D0D);
     display: flex;
     flex-direction: column;
     align-items: center;
