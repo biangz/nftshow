@@ -2,7 +2,7 @@
     <footer class="py-8 md:py-4">
         <div class="inner flex flex-col md:flex-row md:w-[30rem] mx-auto items-center">
             <div class="left">
-                <span class="logo">LOGO</span>
+                <img :src="LOGO" class="w-4" alt="">
                 <h3 class="font-bold text-[0.51rem] py-2 text-center md:text-left">Subscribe to Our Newsletter</h3>
                 <!-- <div class="bg-white flex items-center rounded-full input-box">
                     <img class="w-[0.46rem]" :src="MESS" alt="">
@@ -15,9 +15,9 @@
             <div class="right mt-4 md:mt-0 md:ml-auto flex flex-col items-center">
                 <h3 class="font-bold text-[0.51rem]">Join our Community</h3>
                 <div class="flex items-center gap-x-[0.6rem] my-3">
-                    <a href="https://t.me/HXXHCommunity" target="_blank" class="hover:opacity-80"><img class="w-[1.12rem]" :src="DISCORD" alt=""></a>
-                    <a href="https://twitter.com/hxxh_brc20" target="_blank" class="hover:opacity-80"><img class="w-[1.12rem]" :src="TWITTER" alt=""></a>
-                    <a href="https://medium.com/@dormydotai" target="_blank" class="hover:opacity-80"><img class="w-[1.12rem]" :src="MD" alt=""></a>
+                    <a href="https://t.me/HXXHCommunity" target="_blank" class="hover:opacity-80"><div class="icon i-basil-telegram-solid"></div></a>
+                    <a href="https://twitter.com/hxxh_brc20" target="_blank" class="hover:opacity-80"><div class="icon i-basil-twitter-solid"></div></a>
+                    <a href="https://medium.com/@dormydotai" target="_blank" class="hover:opacity-80"><div class="icon i-basil-medium-solid"></div></a>
                 </div>
                 <p class="text-[#808080] text-[0.36rem]">Copyright © 2023 HXXH</p>
             </div>
@@ -26,7 +26,7 @@
 </template>
 
 <script setup>
-const LOGO = new URL('@/assets/images/logo_footer.png', import.meta.url).href
+const LOGO = new URL('@/assets/HXXH.png', import.meta.url).href
 const DISCORD = new URL('@/assets/images/icon-discord.png', import.meta.url).href
 const TWITTER = new URL('@/assets/images/icon-twitter.png', import.meta.url).href
 const MD = new URL('@/assets/images/icon-md.png', import.meta.url).href
@@ -42,6 +42,11 @@ footer {
         color: var(--theme-color);
         font-size: 32px;
         font-weight: bold;
+    }
+
+    .icon {
+        color: white;
+        font-size: 40px;
     }
     .inner {
         color: var(--text-color);

@@ -1,7 +1,7 @@
 <template>
 
     <div class="banner md:h-[16rem] bg-cover md:bg-contain">
-        <div class="inner md:w-[28rem]">
+        <div class="inner w-[20rem] md:w-[35rem]">
             <div class="discription py-10 md:py-0">
                 <h1 data-aos="fade-up" data-aos-once="true">HXXH</h1>
                 <h1 data-aos="fade-up" data-aos-once="true">Pioneering Decentralized UTXO-Based NFT Social Protocol</h1>
@@ -173,7 +173,7 @@ onMounted(() => {
 
 <style scoped lang="less">
 .banner {
-    background: url('../assets/images/banner-HXXH.png') no-repeat top right / 900px, linear-gradient(to bottom, var(--bg-theme-color), #0D0D0D);
+    background: url('../assets/images/banner-HXXH.png') no-repeat top right -200px / cover, linear-gradient(to bottom, var(--bg-theme-color), #0D0D0D);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -181,7 +181,7 @@ onMounted(() => {
     .inner {
         // width: 1412px;
         .discription {
-            width: 740px;
+            width: 70%;
             h1 {
                 font-size: 76px;
                 line-height: 1.2;

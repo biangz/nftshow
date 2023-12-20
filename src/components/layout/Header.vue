@@ -1,6 +1,6 @@
 <template>
     <header class="sticky top-0 w-full flex items-center px-[0.8rem] md:px-[5.12rem]">
-        <Logo class="logo block w-[3.4rem]"/>
+        <Logo class="logo block w-[1.4rem]"/>
         <div class="flex items-center gap-x-4 ml-auto">
             <w3m-button :balance="'hide'"/>
         </div>
