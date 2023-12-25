@@ -14,7 +14,7 @@
                 <p class="text-[#808080] text-[0.36rem]">Copyright © 2023 HXXH</p>
             </div>
             <div class="whitepaper md:ml-auto">
-                <a href="" target="_blank" rel="noopener noreferrer"><img class="w-[14rem] md:w-28" src="../../assets/images/pic-whitepaper.jpg" alt=""></a>
+                <a href="https://docs.hxxh.io" target="_blank" rel="noopener noreferrer"><img class="w-[14rem] md:w-28" src="../../assets/images/pic-whitepaper.jpg" alt=""></a>
             </div>
         </div>
     </footer>
