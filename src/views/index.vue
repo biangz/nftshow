@@ -96,7 +96,7 @@
     </div>
 
     <div data-aos="fade-up" data-aos-once="true" class="question-box flex flex-col md:flex-row justify-center items-center md:items-start bg-[#F9FAFF] color-[#2A2934]">
-        <div class="md:ml-[1.4rem]">
+        <div>
             <h1 class="title">Frequently Asked Questions</h1>
             <a-collapse class="collapse" :default-active-key="[]" :expand-icon-position="'right'" :bordered="false">
                 <a-collapse-item 

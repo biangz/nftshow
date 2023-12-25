@@ -1,24 +1,20 @@
 <template>
     <footer class="py-8 md:py-4">
-        <div class="inner flex flex-col md:flex-row md:w-[30rem] mx-auto items-center">
-            <div class="left">
+        <div class="inner flex flex-col-reverse md:flex-row md:w-[30rem] mx-auto items-center gap-4 justify-arrond">
+            <div>
                 <img :src="LOGO" class="w-4" alt="">
                 <h3 class="font-bold text-[0.51rem] py-2 text-center md:text-left">Contact Us: <a href="mailto:hxxhbtc@gmail.com">hxxhbtc@gmail.com</a></h3>
-                <!-- <div class="bg-white flex items-center rounded-full input-box">
-                    <img class="w-[0.46rem]" :src="MESS" alt="">
-                    <div class="w-[1px] h-2 bg-[#6E777E] mx-[0.32rem]"></div>
-                    <input class="input" type="text">
-                    <button class="rounded-full">SUBSCRIBE</button>
-                </div> -->
-                <p class="text-[#808080] text-[0.36rem] mt-3"><span>Terms of Service</span> <span class="ml-4">Privacy Policy</span></p>
-            </div>
-            <div class="right mt-4 md:mt-0 md:ml-auto flex flex-col items-center">
+                <p class="text-[#808080] text-[0.36rem]"><span>Terms of Service</span> <span class="ml-4">Privacy Policy</span></p>
+                <div class="h-px bg-[#434343] my-4"></div>
                 <h3 class="font-bold text-[0.51rem]">Join our Community</h3>
                 <div class="flex items-center gap-x-[0.6rem] my-3">
                     <a href="https://t.me/HXXHCommunity" target="_blank" class="hover:opacity-80"><div class="icon i-basil-telegram-solid"></div></a>
                     <a href="https://twitter.com/hxxh_brc20" target="_blank" class="hover:opacity-80"><div class="icon i-basil-twitter-solid"></div></a>
                 </div>
                 <p class="text-[#808080] text-[0.36rem]">Copyright © 2023 HXXH</p>
+            </div>
+            <div class="whitepaper md:ml-auto">
+                <a href="" target="_blank" rel="noopener noreferrer"><img class="w-[14rem] md:w-28" src="../../assets/images/pic-whitepaper.jpg" alt=""></a>
             </div>
         </div>
     </footer>
@@ -67,6 +63,15 @@ footer {
                 background-color: #3B5CFF;
                 padding: 12px 16px;
                 border: 0;
+            }
+        }
+
+        .whitepaper {
+            &:hover {
+                img {
+                    transition: all .3s;
+                    transform: translateY(-5px);
+                }
             }
         }
 
